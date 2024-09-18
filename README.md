@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, I'm Kirthi JC
 🔭 I’m currently pursing my B.tech in AIML<br>🌱 I’m currently learning java<br><br>
 
 

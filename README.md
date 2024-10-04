@@ -1,5 +1,5 @@
 # Hello, I'm Kirthi JC
-🔭 I’m currently pursing my B.tech in AIML<br>🌱 I’m currently learning java<br><br>
+<h1 text-algin='center';>A Passionate Tech Enuthiastic</h1>
 
 [![](https://visitcount.itsvg.in/api?id=jc-kirthi&icon=5&color=2)](https://visitcount.itsvg.in)
 

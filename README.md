@@ -1,5 +1,5 @@
-<h1 text- align='center';> Hello!, I'm Kirthi JC </h1> 
-<h3>A Passionate Tech Enuthiastic</h3>
+<h1 text- align='center';> Hello!, I'm Kirthi JC 👋 </h1> 
+<h3>A Passionate Tech Enuthiastic Student😊</h3>
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=jc-kirthi&icon=5&color=2)](https://visitcount.itsvg.in)

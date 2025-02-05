@@ -1,7 +1,6 @@
 <h1 text- align='center';> Hello!, I'm Kirthi JC 👋 </h1> 
 <h3>⚡A Passionate Tech Enthusiastic Student😊</h3>
-<br>
-<!--[![](https://visitcount.itsvg.in/api?id=jc-kirthi&icon=5&color=2)](https://visitcount.itsvg.in)-->
+<br> <!--[![](https://visitcount.itsvg.in/api?id=jc-kirthi&icon=5&color=2)](https://visitcount.itsvg.in)-->
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/Tz9rK2HH) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/kirthi-jc-5390b8310 ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/enjoy3core/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/me_jckirthi) 

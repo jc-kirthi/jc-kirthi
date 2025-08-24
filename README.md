@@ -47,14 +47,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jc-kirthi&show_icons=true&locale=en" alt="jc-kirthi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jc-kirthi&" alt="jc-kirthi" /></p>
-
-
-
-<br>
-
-
-![](https://github-readme-stats.vercel.app/api?username=jc-kirthi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jc-kirthi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jc-kirthi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-

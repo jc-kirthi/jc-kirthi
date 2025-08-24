@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jc-kirthi&label=Profile%20views&color=0e75b6&style=flat" alt="jc-kirthi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jc-kirthi" alt="jc-kirthi" /></a> </p>
-
 - 🌱 I’m currently learning **DSA and MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jc-kirthi?tab=repositories](https://github.com/jc-kirthi?tab=repositories)
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me **its.me.jckirthi@gmail.com**
 
-- ⚡ Fun fact **Music is my company and therapy**
+- ⚡ Fun fact **"Music is my company and therapy!"**
 
 ## Connect with me: 
 <p align="left">
@@ -49,3 +47,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jc-kirthi&show_icons=true&locale=en" alt="jc-kirthi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jc-kirthi&" alt="jc-kirthi" /></p>
+
+
+
+<br>
+
+
+![](https://github-readme-stats.vercel.app/api?username=jc-kirthi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jc-kirthi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jc-kirthi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+

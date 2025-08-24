@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KIRTHI JC :)</h1>
-<h3 align="center">A Passionate Tech Enthusiastic Student 1</h3>
+<h3 align="center">A Passionate Tech Enthusiastic Student !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jc-kirthi&label=Profile%20views&color=0e75b6&style=flat" alt="jc-kirthi" /> </p>
 

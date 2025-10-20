@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA and MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jc-kirthi?tab=repositories](https://github.com/jc-kirthi?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/jc-kirthi?tab=repositories](https://linktr.ee/kirthi_projects)
 
 - 💬 Ask me about **Java and C**
 

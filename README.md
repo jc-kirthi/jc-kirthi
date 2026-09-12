@@ -1,112 +1,125 @@
 <div align="center">
 
-  # ⚡ KIRTHI J C
-  ### **AI\ML Student | Web Developer | DSA Enthusiast**
+# Hi, I'm Kirthi JC 👋
 
-  <p align="center">
-    <a href="https://linkedin.com/in/kirthi-jc-5390b8310"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:its.me.jckirthi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://linktr.ee/kirthi_projects"><img src="https://img.shields.io/badge/Portfolio-43E660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree"/></a>
-    <a href="https://twitter.com/me_jckirthi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  </p>
+### AI/ML Student · Web Developer · DSA Enthusiast
 
-  <a href="https://github.com/jc-kirthi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&lines=Building+Scalable+Web+Apps+%F0%9F%92%BB;Exploring+MERN+Stack+%26+Next.js+%F0%9F%9A%80;Solving+DSA+in+Java++%F0%9F%A7%A0;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+<p>
+<a href="https://github.com/jc-kirthi">
+    <img src="https://img.shields.io/badge/GitHub-jc--kirthi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://linkedin.com/in/kirthi-jc-5390b831">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:its.me.jckirthi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linktr.ee/kirthi_projects">
+    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-43E660?style=for-the-badge&logo=linktree&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://twitter.com/me_jckirthi">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=700&lines=Building+useful+and+scalable+web+applications;Exploring+MERN+Stack+and+Next.js;Solving+DSA+problems+with+Java;Learning%2C+building%2C+and+contributing+every+day" alt="Typing introduction" /> 
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=jc-kirthi&label=PROFILE+VIEWS&color=00F2FE&style=for-the-badge" alt="Profile views" />
+</div></div>
 
-  <br/>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=jc-kirthi&label=PROFILE+VIEWS&color=00F2FE&style=for-the-badge" alt="Profile Views" />
-  </p>
+---
+
+## 🚀 About Me
+
+I’m **Kirthi JC**, a student developer passionate about transforming ideas into practical, user-focused digital experiences. I enjoy building full-stack web applications, strengthening my problem-solving skills through Data Structures and Algorithms, and exploring the evolving world of Artificial Intelligence and Machine Learning.
+
+ 🔭 Currently focusing on **MERN Stack development, Next.js, and DSA**
+
+🌱 Continuously learning through projects, open source, and technical communities
+
+🤝 Active in **MSA Technical Club**, **OSCode Technical Club**, **GSSoC**, and **Hacktoberfest**
+
+💡 Interested in building products that are useful, accessible, and easy to use
+
+🎧 Fun fact: **Music is my ultimate company and therapy**
+
+> **Build with curiosity. Learn with consistency. Grow by contributing.**
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript" alt="Java, C, Python, and JavaScript" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="HTML, CSS, React, and Next.js" />
+
+### Backend, Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,postman,git,github,arduino" alt="Node.js, MySQL, Postman, Git, GitHub, and Arduino" /> </div>
+
+---
+
+## 🏆 Competitive Programming & Developer Communities
+
+<div align="center">
+
+<a href="https://leetcode.com/coder_kirthi"><img src="https://img.shields.io/badge/LeetCode-Solve_With_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.codechef.com/users/chef_kirthi_26"><img src="https://img.shields.io/badge/CodeChef-Visit_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="https://www.hackerrank.com/its_me_jckirthi"><img src="https://img.shields.io/badge/HackerRank-View_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+<a href="https://auth.geeksforgeeks.org/user/itsmejcmdpw"><img src="https://img.shields.io/badge/GeeksforGeeks-Learn_&_Practice-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://stackoverflow.com/users/29744480"><img src="https://img.shields.io/badge/Stack_Overflow-Ask_&_Share-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+
 </div>
 
 ---
 
-### 🚀 About Me
+## 🌟 Open Source & Achievements
 
-```yaml
-Developer Profile:
-  Name: Kirthi JC
-  Role: Student Developer & Tech Enthusiast
-  Core Focus: MERN Stack Development & Data Structures
-  Current Goals: Mastering Next.js, Deepening DSA Problem-Solving
-  Communities: MSA Technical Club, OSCode Technical Club, GSSoC Contributor, Hacktoberfest
-  Fun Fact: "Music is my ultimate company and therapy!" 🎧
-```
-
----
-
-### 🛠 Tech Stack & Skills
-
-<div align="center">
-
-#### **Languages & Frontend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### **Backend, Databases & Tools**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-</div>
-
----
-
-
-
-### 🏆 Competitive Coding & Socials
-
-<div align="center">
-  <a href="https://leetcode.com/coder_kirthi"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.codechef.com/users/chef_kirthi_26"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-  <a href="https://www.hackerrank.com/its_me_jckirthi"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/itsmejcmdpw"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>
-  <a href="https://stackoverflow.com/users/29744480"><img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
-</div>
-
----
-
-### 🎖️ Open Source Badges
-
-<div align="center">
-
-[![Holopin Badges](https://holopin.me/jckirthi)](https://holopin.io/@jckirthi)
-
-<br/>
-
-<a href="https://gssoc.girlscript.tech/">
-  <img src="https://img.shields.io/badge/GSSoC-2024_Contributor-orange?style=for-the-badge&logo=github" alt="GSSoC 2024" />
-</a>
-<a href="https://gssoc.girlscript.tech/">
-  <img src="https://img.shields.io/badge/Postman-Challenge_Completed-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Challenge" />
+<div align="center"> <a href="https://holopin.io/@jckirthi">
+<img src="https://holopin.me/jckirthi" alt="Kirthi's Holopin badges" />
 </a>
 
-</div>
+
+
+
+
+<a href="https://gssoc.girlscript.tech/">
+<img src="https://img.shields.io/badge/GSSoC-2024_Contributor-orange?style=for-the-badge&logo=github" alt="GSSoC 2024 Contributor" />
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://img.shields.io/badge/Postman-Challenge_Completed-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Challenge Completed" />
+</a> </div>
 
 ---
 
-### 📊 GitHub Metrics
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=jc-kirthi&show_icons=true&theme=cyberpunk&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=jc-kirthi&layout=compact&theme=cyberpunk&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
-
+<div align="center"> <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=jc-kirthi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Kirthi's GitHub statistics" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=jc-kirthi&layout=compact&theme=tokyonight&hide_border=true" alt="Kirthi's most used languages" />   
+ <img src="https://streak-stats.demolab.com?user=jc-kirthi&theme=tokyonight&hide_border=true" alt="Kirthi's GitHub streak" /> </div>
 
 ---
 
+## 💬 Let's Connect
+
+I’m always open to learning, collaborating on meaningful projects, contributing to open source, and connecting with fellow developers.
+
 <div align="center">
-  <sub>Designed with ❤️ by Kirthi JC</sub>
+
+### **Have an idea or want to collaborate? Let’s build something impactful together.**
+
+<a href="mailto:its.me.jckirthi@gmail.com">📩 Send me an email</a> ·
+<a href="https://linktr.ee/kirthi_projects">🌐 Visit my portfolio</a> ·
+<a href="https://linkedin.com/in/kirthi-jc-5390b831">🤝 Connect on LinkedIn</a>
+
+
+
+
+
+<sub>Designed and built with curiosity, consistency, and ❤️ by Kirthi JC</sub>
+
 </div>

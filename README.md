@@ -61,15 +61,7 @@ Developer Profile:
 
 ---
 
-### 📌 Featured Projects
 
-| Project | Description | Tech Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| **Vibe-Tagger** | AI-powered social media caption & hashtag generator | JavaScript, AI APIs | [Code](https://github.com/jc-kirthi) |
-| **AlgoVisualizer** | Interactive visualizer for core algorithms & data structures | React, JS, CSS | [Code](https://github.com/jc-kirthi) |
-| **RapidAuth** | Lightweight & secure authentication utility | Node.js, Express | [Code](https://github.com/jc-kirthi) |
-
----
 
 ### 🏆 Competitive Coding & Socials
 
@@ -111,9 +103,7 @@ Developer Profile:
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jc-kirthi&theme=react&hide_border=true" alt="Activity Graph" width="95%" />
-</div>
+
 
 ---
 

@@ -1,7 +1,7 @@
 <div align="center">
 
-  # ⚡ Kirthi JC
-  ### **Full-Stack & MERN Developer | DSA Enthusiast**
+  # ⚡ KIRTHI J C
+  ### **AI\ML Student | Web Developer | DSA Enthusiast**
 
   <p align="center">
     <a href="https://linkedin.com/in/kirthi-jc-5390b8310"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -11,11 +11,10 @@
   </p>
 
   <a href="https://github.com/jc-kirthi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&lines=Building+Scalable+Web+Apps+%F0%9F%92%BB;Exploring+MERN+Stack+%26+Next.js+%F0%9F%9A%80;Solving+DSA+in+Java+%26+C++%F0%9F%A7%A0;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&lines=Building+Scalable+Web+Apps+%F0%9F%92%BB;Exploring+MERN+Stack+%26+Next.js+%F0%9F%9A%80;Solving+DSA+in+Java++%F0%9F%A7%A0;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
-  
+  <br/>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jc-kirthi&label=PROFILE+VIEWS&color=00F2FE&style=for-the-badge" alt="Profile Views" />
   </p>
@@ -31,7 +30,7 @@ Developer Profile:
   Role: Student Developer & Tech Enthusiast
   Core Focus: MERN Stack Development & Data Structures
   Current Goals: Mastering Next.js, Deepening DSA Problem-Solving
-  Communities: OSCode Technical Club, GSSoC Contributor
+  Communities: MSA Technical Club, OSCode Technical Club, GSSoC Contributor, Hacktoberfest
   Fun Fact: "Music is my ultimate company and therapy!" 🎧
 ```
 

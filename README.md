@@ -67,10 +67,10 @@ I’m **Kirthi JC**, a student developer passionate about transforming ideas int
 
 <div align="center">
 
-<a href="https://leetcode.com/coder_kirthi"><img src="https://img.shields.io/badge/LeetCode-Solve_With_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://www.codechef.com/users/chef_kirthi_26"><img src="https://img.shields.io/badge/CodeChef-Visit_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-<a href="https://www.hackerrank.com/its_me_jckirthi"><img src="https://img.shields.io/badge/HackerRank-View_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-<a href="https://auth.geeksforgeeks.org/user/itsmejcmdpw"><img src="https://img.shields.io/badge/GeeksforGeeks-Learn_&_Practice-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://leetcode.com/coder_kirt"><img src="https://img.shields.io/badge/LeetCode-Solve_With_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.codechef.com/users/chef_kirthi_2"><img src="https://img.shields.io/badge/CodeChef-Visit_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="https://www.hackerrank.com/its_me_jckirth"><img src="https://img.shields.io/badge/HackerRank-View_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+<a href="https://auth.geeksforgeeks.org/user/itsmejcmdp"><img src="https://img.shields.io/badge/GeeksforGeeks-Learn_&_Practice-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 <a href="https://stackoverflow.com/users/29744480"><img src="https://img.shields.io/badge/Stack_Overflow-Ask_&_Share-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 
 </div>
